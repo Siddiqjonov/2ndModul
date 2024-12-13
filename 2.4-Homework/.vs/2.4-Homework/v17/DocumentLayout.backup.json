@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\services\\idirectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\services\\idirectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\services\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\services\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\services\\teacherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\services\\teacherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\services\\iteacherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\services\\iteacherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.4-homework\\0204\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D8FFFE-2C14-4EA2-AE41-75D6A322602B}|0204\\0204.csproj|solutionrelative:0204\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDirectorService.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\IDirectorService.cs",
+              "RelativeDocumentMoniker": "0204\\Services\\IDirectorService.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\IDirectorService.cs",
+              "RelativeToolTip": "0204\\Services\\IDirectorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:59:06.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "0204\\Models\\Test.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Models\\Test.cs",
+              "RelativeToolTip": "0204\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:58:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "0204\\Models\\Teacher.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Models\\Teacher.cs",
+              "RelativeToolTip": "0204\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:58:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "0204\\Models\\Director.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Models\\Director.cs",
+              "RelativeToolTip": "0204\\Models\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:58:27.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "0204\\Models\\Student.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Models\\Student.cs",
+              "RelativeToolTip": "0204\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:58:22.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectorService.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\DirectorService.cs",
+              "RelativeDocumentMoniker": "0204\\Services\\DirectorService.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\DirectorService.cs",
+              "RelativeToolTip": "0204\\Services\\DirectorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:56:08.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\ITestService.cs",
+              "RelativeDocumentMoniker": "0204\\Services\\ITestService.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\ITestService.cs",
+              "RelativeToolTip": "0204\\Services\\ITestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:52.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "0204\\Services\\TestService.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\TestService.cs",
+              "RelativeToolTip": "0204\\Services\\TestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:54:47.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITeacherServices.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\ITeacherServices.cs",
+              "RelativeDocumentMoniker": "0204\\Services\\ITeacherServices.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\ITeacherServices.cs",
+              "RelativeToolTip": "0204\\Services\\ITeacherServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:53:46.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherServices.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\TeacherServices.cs",
+              "RelativeDocumentMoniker": "0204\\Services\\TeacherServices.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\TeacherServices.cs",
+              "RelativeToolTip": "0204\\Services\\TeacherServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:53:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "0204\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\IStudentService.cs",
+              "RelativeToolTip": "0204\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:52:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "0204\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Services\\StudentService.cs",
+              "RelativeToolTip": "0204\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:52:48.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Program.cs",
+              "RelativeDocumentMoniker": "0204\\Program.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.4-Homework\\0204\\Program.cs",
+              "RelativeToolTip": "0204\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:44:53.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
