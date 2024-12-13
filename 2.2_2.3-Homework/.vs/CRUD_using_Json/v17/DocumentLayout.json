@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\moduls\\strudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\moduls\\strudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\services\\teacherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\services\\teacherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\moduls\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\moduls\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\moduls\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\moduls\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\data\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\data\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\moduls\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\moduls\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\services\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\services\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|d:\\full-stack\\backend\\pdp_academy\\pdp_homework\\2ndmodul\\2.2_2.3-homework\\0202\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A291FDE-E870-43E2-AC20-E3A946110279}|0202\\0202.csproj|solutionrelative:0202\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "0202\\Services\\StudentServices.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Services\\StudentServices.cs",
+              "RelativeToolTip": "0202\\Services\\StudentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:25:06.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Moduls\\Teacher.cs",
+              "RelativeDocumentMoniker": "0202\\Moduls\\Teacher.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Moduls\\Teacher.cs",
+              "RelativeToolTip": "0202\\Moduls\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:24:32.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "0202\\Services\\TestService.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Services\\TestService.cs",
+              "RelativeToolTip": "0202\\Services\\TestService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:06:29.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherServices.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Services\\TeacherServices.cs",
+              "RelativeDocumentMoniker": "0202\\Services\\TeacherServices.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Services\\TeacherServices.cs",
+              "RelativeToolTip": "0202\\Services\\TeacherServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:26:38.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Program.cs",
+              "RelativeDocumentMoniker": "0202\\Program.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Program.cs",
+              "RelativeToolTip": "0202\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:01:20.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test.json",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Data\\Test.json",
+              "RelativeDocumentMoniker": "0202\\Data\\Test.json",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Data\\Test.json",
+              "RelativeToolTip": "0202\\Data\\Test.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T11:37:09.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Moduls\\Test.cs",
+              "RelativeDocumentMoniker": "0202\\Moduls\\Test.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Moduls\\Test.cs",
+              "RelativeToolTip": "0202\\Moduls\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:24:39.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Strudent.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Moduls\\Strudent.cs",
+              "RelativeDocumentMoniker": "0202\\Moduls\\Strudent.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Moduls\\Strudent.cs",
+              "RelativeToolTip": "0202\\Moduls\\Strudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:19:32.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DirectorService.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Services\\DirectorService.cs",
+              "RelativeDocumentMoniker": "0202\\Services\\DirectorService.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Services\\DirectorService.cs",
+              "RelativeToolTip": "0202\\Services\\DirectorService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:06:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Moduls\\Director.cs",
+              "RelativeDocumentMoniker": "0202\\Moduls\\Director.cs",
+              "ToolTip": "D:\\Full-stack\\BackEnd\\PDP_Academy\\PDP_Homework\\2ndModul\\2.2_2.3-Homework\\0202\\Moduls\\Director.cs",
+              "RelativeToolTip": "0202\\Moduls\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:05:31.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
