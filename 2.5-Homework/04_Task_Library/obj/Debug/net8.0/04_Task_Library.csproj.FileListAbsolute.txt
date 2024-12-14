@@ -1,0 +1,15 @@
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\bin\Debug\net8.0\04_Task_Library.exe
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\bin\Debug\net8.0\04_Task_Library.deps.json
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\bin\Debug\net8.0\04_Task_Library.runtimeconfig.json
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\bin\Debug\net8.0\04_Task_Library.dll
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\bin\Debug\net8.0\04_Task_Library.pdb
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\04_Task_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\04_Task_Library.AssemblyInfoInputs.cache
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\04_Task_Library.AssemblyInfo.cs
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\04_Task_Library.csproj.CoreCompileInputs.cache
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\04_Task_Library.sourcelink.json
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\04_Task_Library.dll
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\refint\04_Task_Library.dll
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\04_Task_Library.pdb
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\04_Task_Library.genruntimeconfig.cache
+D:\Full-stack\BackEnd\PDP_Academy\PDP_Homework\2ndModul\2.5-Homework\04_Task_Library\obj\Debug\net8.0\ref\04_Task_Library.dll
