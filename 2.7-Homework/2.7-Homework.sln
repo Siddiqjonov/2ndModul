@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.7-Homework", "2.7-Homework\Student_Crud_Validation.csproj", "{B95B907C-F1E4-459C-B7A2-E76F851F8269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95B907C-F1E4-459C-B7A2-E76F851F8269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95B907C-F1E4-459C-B7A2-E76F851F8269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95B907C-F1E4-459C-B7A2-E76F851F8269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95B907C-F1E4-459C-B7A2-E76F851F8269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92DBD3F5-C8C0-4629-AF7C-2260AA489A41}
+	EndGlobalSection
+EndGlobal
