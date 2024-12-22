@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "a9aa22ca-856d-4441-a9a3-21a86009f36c",
+    "Name": "Hamza",
+    "City": "Tashkent, Piskent",
+    "PhoneNumber": "991234567",
+    "Email": "hamzaschoolN1@gmail.com",
+    "Address": "Amir Temur 34",
+    "Type": 2
+  },
+  {
+    "Id": "8af9b3de-a6c7-4a79-b6fe-1ce352f3a068",
+    "Name": "Oybek",
+    "City": "Tashkent, Piskent",
+    "PhoneNumber": "994582132",
+    "Email": "oybekschoolN5@gmail.com",
+    "Address": "Begobot 23",
+    "Type": 0
+  },
+  {
+    "Id": "95628f66-89b0-44ed-84f7-9a6a172d56f1",
+    "Name": "Hamza",
+    "City": "Tashkent, Piskent",
+    "PhoneNumber": "991234567",
+    "Email": "HamzaschoolN1@gmail.com",
+    "Address": "Amir Temur 34",
+    "Type": 2
+  },
+  {
+    "Id": "a1038416-b2da-46c0-ab0f-4324774f22eb",
+    "Name": "Oybek",
+    "City": "Tashkent, Piskent",
+    "PhoneNumber": "994582132",
+    "Email": "OybekschoolN5@gmail.com",
+    "Address": "Begobot 23",
+    "Type": 0
+  }
+]

@@ -42,7 +42,16 @@ public class MyList<T> : IMyList<T>
 
     public T[] ToArray()
     {
-        return items;
+        if (items.Count() == count)
+        {
+            return items;
+        }
+        var newItems = new T[count];
+        for (int i = 0; i < newItems.Length; i++)
+        {
+            newItems[i] = items[i];
+        }
+        return newItems;
     }
 
     private void Resize()
@@ -170,6 +179,24 @@ public class MyList<T> : IMyList<T>
 
     public void Sort()
     {
-        Array.Sort(items);
+        // 88 15 45 99 25
+        for (int i = 0; i < count; i++)
+        {
+            var minElement = items[i];
+            var minIndex = i;
+            for (int j = i + 1; j < count; j++)
+            {
+                if (Convert.ToInt32(items[j]) > Convert.ToInt32(minElement))
+                {
+                    minElement = items[j];
+                    minIndex = j;
+                }
+            }
+            var temp = items[i];
+            items[i] = items[minIndex];
+            items[minIndex] = temp;
+        }
+
+        // Array.Sort(items);
     }
 }
